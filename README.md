@@ -5,13 +5,13 @@ Interested in
 - Artificial intelligence
 - Robotics
 - Automobile systems
-- 
+
 Currently Learning
 - Python advance
 - C++ advance
 - Machine learning
 - Robotics
-- 
+
 Projects:
 - Rock Paper Scissors Game 
 
