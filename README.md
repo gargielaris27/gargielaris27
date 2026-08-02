@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Gargi !
+Bachelor of Information Technology student 
 
-<!--
-**gargielaris27/gargielaris27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in 
+- Artificial intelligence
+- Robotics
+- Automobile systems
+- 
+Currently Learning
+- Python advance
+- C++ advance
+- Machine learning
+- Robotics
+- 
+Projects:
+- Rock Paper Scissors Game 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Goals:
+- Building AI-Powered robotic systems 
